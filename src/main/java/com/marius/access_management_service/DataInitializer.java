@@ -1,6 +1,6 @@
 package com.marius.access_management_service;
 
-import com.marius.access_management_service.user.Role;
+import com.marius.access_management_service.user.role.Role;
 import com.marius.access_management_service.user.User;
 import com.marius.access_management_service.user.UserRepository;
 import org.springframework.boot.CommandLineRunner;

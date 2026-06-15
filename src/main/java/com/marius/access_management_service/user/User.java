@@ -1,6 +1,7 @@
 package com.marius.access_management_service.user;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import com.marius.access_management_service.user.role.Role;
 import jakarta.persistence.*;
 
 import java.util.UUID;

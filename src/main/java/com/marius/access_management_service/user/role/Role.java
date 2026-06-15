@@ -1,4 +1,4 @@
-package com.marius.access_management_service.user;
+package com.marius.access_management_service.user.role;
 
 public enum Role {
     ADMIN,
